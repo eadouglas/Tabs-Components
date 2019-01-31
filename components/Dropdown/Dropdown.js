@@ -15,7 +15,7 @@ class Dropdown {
       this.toggleContent();
     })
   }
-
+add
   toggleContent() {
     
     // Toggle the ".dropdown-hidden" class off and on
